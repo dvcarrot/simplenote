@@ -4,7 +4,7 @@ learning vuejs + django
 
 
 step by step:
-- https://pythondigest.ru/view/27587/
+- http://apirobot.me/posts/django-vue-how-to-create-and-consume-api-part-1
 - http://apirobot.me/posts/django-vue-how-to-create-and-consume-api-part-2
 
 
